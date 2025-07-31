@@ -5,7 +5,7 @@ This is a simple React application built with TypeScript. It serves as a templat
 ## Project Structure
 
 ```
-my-react-app
+STICK_RANGER_CALCULATOR
 ├── src
 │   ├── App.tsx                # Main component of the application
 │   ├── index.tsx              # Entry point of the application
@@ -27,7 +27,7 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
    ```
    git clone <repository-url>
-   cd my-react-app
+   cd STICK_RANGER_CALCULATOR
    ```
 
 2. **Install dependencies:**
